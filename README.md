@@ -20,3 +20,11 @@ b.	Whether the Mother, the Grandmother and the Father also carry the allele (TRU
 
 Code for calculating specific disease selection coefficients (figure 2C) is available on request.
 
+
+Licence - Copyright (c) 2011-2017 GitHub Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this 'Code-for-SALOD' and associated documentation files, to deal in the code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, but not sell, copies of the 'Code-for-SALOD', and to permit persons to whom the 'Code-for-SALOD' is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+
